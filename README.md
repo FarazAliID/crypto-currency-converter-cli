@@ -22,10 +22,10 @@ A clean, light-weight Python Command Line Interface (CLI) application that fetch
    pip install -r requirements.txt
    python main.py
 
-
-
-
+   
 ==== SAMPLE OUTPUT ====
+
+
 === Crypto & Fiat Currency Converter CLI ===
 1. Bitcoin USD & PKR Converter
 2. Ethereum USD & PKR Converter
